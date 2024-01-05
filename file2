@@ -1,1 +1,1 @@
-Gmail related code
+Mail related code
